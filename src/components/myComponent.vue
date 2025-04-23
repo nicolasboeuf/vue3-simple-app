@@ -24,7 +24,6 @@
     },
   
     created(){
-      console.log("myComponent created")
     }
   
   }
